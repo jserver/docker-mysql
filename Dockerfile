@@ -1,6 +1,7 @@
-from base
+from ubuntu
 
-maintainer Alexandre Bulté "alexandre@bulte.net"
+#maintainer Alexandre Bulté "alexandre@bulte.net"
+maintainer Joe Server "joe@jserver.io"
 
 # https://github.com/dotcloud/docker/issues/1024
 run dpkg-divert --local --rename --add /sbin/initctl
